@@ -1,0 +1,3 @@
+/home/esoman/c++code/Homework I/cluster four/cluster/build/CMakeFiles/rebuild_cache.dir
+/home/esoman/c++code/Homework I/cluster four/cluster/build/CMakeFiles/edit_cache.dir
+/home/esoman/c++code/Homework I/cluster four/cluster/build/CMakeFiles/class.dir
